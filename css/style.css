@@ -1,0 +1,131 @@
+.white {
+  color: #fff;
+  border-color: #fff !important;
+}
+.black {
+  color: #3c3c3c;
+  border-color: #3c3c3c !important;
+}
+body {
+  font-family: 'Lato';
+}
+.container {
+  width: 1070px;
+  margin: 0 auto;
+}
+.header {
+  background: url("../image/bg-header.jpg") no-repeat;
+  background-size: cover;
+}
+.header--icon_top {
+  width: 65px;
+  margin: 0 auto;
+  padding: 280px 0 80px 0;
+}
+.header--icon_bottom {
+  width: 23px;
+  margin: 0 auto;
+  padding: 235px 0 105px 0;
+}
+.header--header {
+  font-weight: bold;
+  font-size: 54px;
+  text-align: center;
+  color: #fff;
+  text-transform: uppercase;
+  letter-spacing: 8.6px;
+  padding-bottom: 40px;
+}
+.header--subheader {
+  width: 570px;
+  margin: 0 auto;
+  line-height: 1.93;
+  letter-spacing: 0.9px;
+  text-align: center;
+  color: #fff;
+  font-size: 15px;
+}
+.content--block {
+  border: 2px solid #3c3c3c;
+  width: 900px;
+  margin: 0 auto;
+  padding: 70px 0 50px;
+}
+.content--block-header {
+  text-align: center;
+  width: 420px;
+  text-transform: uppercase;
+  font-size: 34px;
+  font-weight: bold;
+  letter-spacing: 5.4px;
+}
+.content--block-text {
+  width: 560px;
+  margin: 0 auto;
+  text-align: center;
+}
+.about {
+  font-size: 16px;
+  line-height: 24px;
+}
+.about .content--block {
+  margin: 100px auto;
+}
+.services {
+  background: url("../image/bg-services.jpg") no-repeat;
+  background-size: cover;
+  font-size: 16px;
+  line-height: 24px;
+  padding: 100px 0;
+}
+.work {
+  text-align: center;
+  padding: 100px 0;
+}
+.work--item {
+  width: 550px;
+  margin: 0 auto 90px;
+}
+.work--item img {
+  margin-bottom: 40px;
+}
+.work--item .item-header {
+  font-size: 20px;
+  font-weight: bold;
+  letter-spacing: 3.2px;
+  text-transform: uppercase;
+  margin-bottom: 35px;
+}
+.work--item .item-text {
+  font-size: 14px;
+  font-weight: 300;
+  line-height: 1.85;
+}
+.work .content--block {
+  padding-bottom: 0 ;
+}
+.contact {
+  font-size: 16px;
+  line-height: 24px;
+}
+.contact--button {
+  display: block;
+  width: 400px;
+  line-height: 55px;
+  font-size: 16px;
+  letter-spacing: 2.6px;
+  text-transform: uppercase;
+  background-color: #3c3c3c;
+  border: solid 2px #3c3c3c;
+  color: #fff;
+  margin: 40px auto 0;
+}
+.footer {
+  text-align: center;
+  font-size: 14px;
+  margin: 50px 0;
+}
+.footer img {
+  vertical-align: middle;
+  margin-right: 30px;
+}
